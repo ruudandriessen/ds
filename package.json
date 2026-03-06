@@ -1,5 +1,5 @@
 {
-  "name": "ds",
+  "name": "@clanki/ds",
   "module": "index.ts",
   "type": "module",
   "devDependencies": {

@@ -1,4 +1,4 @@
-# ds
+# @clanki/ds
 
 To install dependencies:
 
