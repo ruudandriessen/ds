@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "ds",
+      "name": "@clanki/ds",
       "devDependencies": {
         "@types/bun": "latest",
       },

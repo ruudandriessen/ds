@@ -1,4 +1,4 @@
-# ds
+# @clanki/ds
 
 `ds` is a small TypeScript library for building a minimal set of type-safe data structures.
 
